@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string-array name="notes">
+        <item>Peach</item>
+        <item>Tomato</item>
+        <item>Squash</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh peaches from Georgia</item>
+        <item>Fresh tomatoes from Ohio</item>
+        <item>Fresh yellow squash from California</item>
+    </string-array>
+</resources>
